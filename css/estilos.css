@@ -1,11 +1,6 @@
 body
 {
-<<<<<<< HEAD
-    color: deeppink;
-    text-align: center;
-    font-family: "Arial";
-=======
-    color: #333;
+    color: blue;
     text-align: center;
     font-family: "Arial";
     margin: 0;
@@ -42,5 +37,4 @@ body
 #container h1
 {
     font: 20px;
->>>>>>> cabecera
 }
